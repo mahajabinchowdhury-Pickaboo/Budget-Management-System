@@ -10,11 +10,11 @@ Members:	Mashrafi, Ismaeel, Mahajabin, Esha
 
 Features<br>
 
--User registration and login with secure password hashing
--Session-based authentication with JWT support
--Add, view, and manage income and expense records
--Dashboard with financial summaries
--Automated scheduled tasks using cron jobs
--Email notifications via Nodemailer
--Input validation for data integrity
--Responsive UI built with Bootstrap 5
+- User registration and login with secure password hashing<br>
+- Session-based authentication with JWT support<br>  
+- Add, view, and manage income and expense records<br>
+- Dashboard with financial summaries<br>
+- Automated scheduled tasks using cron jobs<br>
+- Email notifications via Nodemailer<br>
+- Input validation for data integrity<br>
+- Responsive UI built with Bootstrap 5<br>
