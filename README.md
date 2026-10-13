@@ -23,16 +23,16 @@ Tech Stack<br>
 
 Backend<br>
 
-+Runtime: Node.js (v20.17.0)
-+Framework: Express.js
-+Database: MongoDB (via Mongoose)
-+Authentication: bcrypt, JSON Web Tokens (jsonwebtoken), express-session, cookie-parser
-+Email: Nodemailer
-+Scheduler: node-cron
-+Validation: validator
-+Other: dotenv, method-override, axios
+- Runtime: Node.js (v20.17.0)<br>
+- Framework: Express.js<br>
+- Database: MongoDB (via Mongoose)<br>
+- Authentication: bcrypt, JSON Web Tokens (jsonwebtoken), express-session, cookie-parser<br>
+- Email: Nodemailer<br>
+- Scheduler: node-cron<br>
+- Validation: validator<br>
+- Other: dotenv, method-override, axios<br>
 
 Frontend<br>
 
-+Templating Engine: EJS with ejs-mate
-+Styling: Bootstrap 5, CSS
+- Templating Engine: EJS with ejs-mate<br>
+- Styling: Bootstrap 5, CSS<br>
