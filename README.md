@@ -18,3 +18,21 @@ Features<br>
 - Email notifications via Nodemailer<br>
 - Input validation for data integrity<br>
 - Responsive UI built with Bootstrap 5<br>
+
+Tech Stack<br>
+
+Backend<br>
+
++Runtime: Node.js (v20.17.0)
++Framework: Express.js
++Database: MongoDB (via Mongoose)
++Authentication: bcrypt, JSON Web Tokens (jsonwebtoken), express-session, cookie-parser
++Email: Nodemailer
++Scheduler: node-cron
++Validation: validator
++Other: dotenv, method-override, axios
+
+Frontend<br>
+
++Templating Engine: EJS with ejs-mate
++Styling: Bootstrap 5, CSS
