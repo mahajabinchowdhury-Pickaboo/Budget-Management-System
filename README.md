@@ -6,7 +6,7 @@ A web-based budget management application that allows users to track and manage 
 Course Code:	CSE470<br>
 Course Name:	Software Engineering<br>
 Group:	Group 4<br>
-Members:	Mashrafi, Ismaeel, Mahajabin, Esha
+Members:	Mashrafi, Mahajabin, Ismaeel, Esha
 
 **Features**<br>
 
